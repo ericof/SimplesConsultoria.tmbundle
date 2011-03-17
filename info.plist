@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Simples Consultoria</string>
+	<key>ordering</key>
+	<array>
+		<string>A67C9067-4A3A-4792-9532-650A83811FB3</string>
+		<string>F715F71E-3C34-4207-8946-28A5F8E1385C</string>
+		<string>4D1EB196-DBF9-4366-B0CD-FDCCB4111A25</string>
+		<string>B0F634AC-2A36-4253-972F-47696F4FD5CC</string>
+		<string>030D4211-45BA-4DD7-8C63-4C73E4CC4116</string>
+		<string>46849A41-4537-425D-BFCC-F2D2A542A078</string>
+		<string>A21E220E-521F-4EA3-B67D-C4EFB149B45A</string>
+		<string>C9428150-16DE-4817-BE83-596A60213266</string>
+		<string>13E79BC0-2C4B-46A4-8268-D6A36479008C</string>
+		<string>B732A8D0-BA1F-4DD2-98C8-3B41AC9638F8</string>
+		<string>379639B1-09A5-4A72-959E-03108AE45BA8</string>
+		<string>36973D01-C4E1-444E-BBD3-5964403FD0B4</string>
+		<string>392CB78F-E4CE-43B5-B296-3A99E9AC04AE</string>
+		<string>119677C8-A7B3-46BB-B2EF-53F16D31B678</string>
+	</array>
+	<key>uuid</key>
+	<string>92090C56-4F31-4164-964A-CF527B132973</string>
+</dict>
+</plist>

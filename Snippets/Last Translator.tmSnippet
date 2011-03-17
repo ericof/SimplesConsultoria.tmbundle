@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Erico Andrei &lt;erico@simplesconsultoria.com.br&gt;</string>
+	<key>name</key>
+	<string>Last Translator</string>
+	<key>tabTrigger</key>
+	<string>Last-Translator</string>
+	<key>uuid</key>
+	<string>36973D01-C4E1-444E-BBD3-5964403FD0B4</string>
+</dict>
+</plist>
